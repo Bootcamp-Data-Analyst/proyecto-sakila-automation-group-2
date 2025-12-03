@@ -6,3 +6,9 @@ Proyecto de introducción a automatización con Python, SQL y Excel:
 -El módulo src/sakila_ETL.py ejecuta todas las consultas SQL que contiene para extraer los distintos datos.
 -Con la librería de conexión de datos establecemos la conexióon y recuperamos los resultados como un dataframe.
 
+2- Transformación:
+-Transformamos los datos dentro de la base de datos.
+-Se crea con Pandas por ejemplo un Dataframe listo para facilitar la exportación.
+
+3-
+
