@@ -21,9 +21,9 @@ El objetivo principal es ilustrar un flujo completo de ETL (Extracción, Transfo
 
 | Rol | Nombre |
 |-----|--------|
-| **Product Owner** | Pablo Rodríguez |
+| **Product Owner** | Pablo Rodríguez Muñoz |
 | **Data Analyst** | Samuel Pérez Delgado|
-| **Scrum Master** | Francisco Manuel rodríguez |
+| **Scrum Master** | Francisco Manuel rodríguez Martín|
 
 ---
 
