@@ -17,6 +17,16 @@ El objetivo principal es ilustrar un flujo completo de ETL (Extracción, Transfo
 
 ---
 
+## 👥 Equipo de trabajo
+
+| Rol | Nombre |
+|-----|--------|
+| **Product Owner** | Pablo Rodríguez |
+| **Data Analyst** | Samuel Pérez Delgado|
+| **Scrum Master** | Francisco Manuel rodríguez |
+
+---
+
 ## 🎯 Objetivos
 
 - Automatizar la extracción de datos desde MySQL.
