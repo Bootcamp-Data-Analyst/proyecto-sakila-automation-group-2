@@ -82,7 +82,7 @@ venv\Scripts\activate           # Windows
 ---
 
 pip install -r requirements.txt
-
+```
 ### Configurar las variables de entorno
 
 1. Copiar el archivo `.env.example`
@@ -93,7 +93,7 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
-
+```
 ## 📊 Dashboard de Excel
 
 El dashboard permite analizar de forma interactiva los datos procesados mediante:
